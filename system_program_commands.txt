@@ -1,0 +1,23 @@
+
+Here are some commonly used system program commands in Ubuntu:
+
+ls: List files and directories.
+cd: Change directory.
+pwd: Print current working directory.
+mkdir: Create a new directory.
+rm: Remove files or directories.
+cp: Copy files and directories.
+mv: Move or rename files and directories.
+cat: Concatenate and display file contents.
+grep: Search for patterns in files.
+find: Search for files and directories.
+chmod: Change file permissions.
+chown: Change file ownership.
+tar: Create or extract compressed archives.
+ssh: Securely connect to a remote server.
+top: Display real-time system information.
+ps: List running processes.
+kill: Terminate a process.
+apt: Package management command for installing, updating, and removing software packages.
+dpkg: Package management command for managing Debian packages.
+systemctl: Control system services and check their status.

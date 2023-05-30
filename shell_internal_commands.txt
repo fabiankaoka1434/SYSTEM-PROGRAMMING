@@ -1,0 +1,19 @@
+cd: Change directory.
+pwd: Print current working directory.
+echo: Display a line of text or the value of a variable.
+export: Set environment variables.
+alias: Create an alias for a command or set of commands.
+history: Display command history.
+source: Execute commands from a file in the current shell.
+exec: Replace the current process with a new process.
+exit: Exit the current shell.
+logout: Log out of the current shell session.
+read: Read input from the user or from a file.
+set: Set or unset shell options and positional parameters.
+shift: Shift positional parameters.
+umask: Set the default file permissions mask.
+unset: Unset a variable or function.
+type: Display information about a command type.
+bg: Put a job in the background.
+fg: Bring a job to the foreground.
+jobs: Display status of current jobs.
